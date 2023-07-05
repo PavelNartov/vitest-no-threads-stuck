@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "vitest -c ./vitest.config.ts"
+  },
+  "devDependencies": {
+    "vitest": "^0.32.4"
+  }
+}
